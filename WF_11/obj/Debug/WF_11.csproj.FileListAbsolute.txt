@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\WF_11\WF_11\obj\Debug\WF_11.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WF_11\WF_11\obj\Debug\WF_11.Form1.resources
+C:\Users\User\source\repos\WF_11\WF_11\obj\Debug\WF_11.Properties.Resources.resources
+C:\Users\User\source\repos\WF_11\WF_11\obj\Debug\WF_11.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WF_11\WF_11\bin\Debug\WF_11.exe.config
+C:\Users\User\source\repos\WF_11\WF_11\bin\Debug\WF_11.exe
+C:\Users\User\source\repos\WF_11\WF_11\bin\Debug\WF_11.pdb
+C:\Users\User\source\repos\WF_11\WF_11\obj\Debug\WF_11.exe
+C:\Users\User\source\repos\WF_11\WF_11\obj\Debug\WF_11.pdb
